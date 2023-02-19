@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: brown;
+    color: white;
+
+}
+
+h2{
+    color: pink ;
+}
+
+.basico{
+    color: blue;
+}
+
+.intermediario {
+    color: chocolate;
+}
+
+.avançado {
+    color: chartreuse;
+}
+
+.destaque {
+    background-color: gold ;
+}
